@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="assets/Morpheus1.webp" alt="Collage" width="600">
+  <img src="assets/morph.png" alt="Collage" width="600">
 </p>
